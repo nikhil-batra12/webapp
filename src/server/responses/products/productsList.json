@@ -1,0 +1,31 @@
+{
+	"success": true,
+	"data": {
+		"products" : [{
+            "name": "Product 1",
+            "id": "P_1",
+            "description": "This is product 1 of high quality",
+            "price": "Rs. 1000"
+        },{
+            "name": "Product 2",
+            "id": "P_2",
+            "description": "This is product 2 of high quality",
+            "price": "Rs. 2000"
+        },{
+            "name": "Product 3",
+            "id": "P_3",
+            "description": "This is product 3 of high quality",
+            "price": "Rs. 3000"
+        },{
+            "name": "Product 4",
+            "id": "P_4",
+            "description": "This is product 4 of high quality",
+            "price": "Rs. 4000"
+        },{
+            "name": "Product 5",
+            "id": "P_5",
+            "description": "This is product 5 of high quality",
+            "price": "Rs. 5000"
+        }]
+	}
+}
